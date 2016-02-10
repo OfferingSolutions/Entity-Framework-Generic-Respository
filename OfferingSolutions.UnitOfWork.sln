@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferingSolutions.UoW.Structure", "OfferingSolutions.UnitOfWork\OfferingSolutions.UoW.Structure.csproj", "{4314D2E2-4004-4369-8B09-E1355A3C5DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferingSolutions.UoW.Sample", "OfferingSolutions.UnitOfWork.Sample\OfferingSolutions.UoW.Sample.csproj", "{7C5FE277-27FA-45A3-A746-B393112E1717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferingSolutions.UoW.Tests", "OfferingSolutions.UoW.Tests\OfferingSolutions.UoW.Tests.csproj", "{E2AA93C9-0384-487A-B1D1-3AB546A4CF65}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fabiangosebrink.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OfferingSolutions.UnitOfWork.Sample\\OfferingSolutions.UoW.Sample.csproj
+		SccProjectName1 = OfferingSolutions.UnitOfWork.Sample
+		SccLocalPath1 = OfferingSolutions.UnitOfWork.Sample
+		SccProjectUniqueName2 = OfferingSolutions.UoW.Tests\\OfferingSolutions.UoW.Tests.csproj
+		SccProjectName2 = OfferingSolutions.UoW.Tests
+		SccLocalPath2 = OfferingSolutions.UoW.Tests
+		SccProjectUniqueName3 = OfferingSolutions.UnitOfWork\\OfferingSolutions.UoW.Structure.csproj
+		SccProjectName3 = OfferingSolutions.UnitOfWork
+		SccLocalPath3 = OfferingSolutions.UnitOfWork
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4314D2E2-4004-4369-8B09-E1355A3C5DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4314D2E2-4004-4369-8B09-E1355A3C5DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4314D2E2-4004-4369-8B09-E1355A3C5DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4314D2E2-4004-4369-8B09-E1355A3C5DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5FE277-27FA-45A3-A746-B393112E1717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5FE277-27FA-45A3-A746-B393112E1717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5FE277-27FA-45A3-A746-B393112E1717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5FE277-27FA-45A3-A746-B393112E1717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AA93C9-0384-487A-B1D1-3AB546A4CF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AA93C9-0384-487A-B1D1-3AB546A4CF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AA93C9-0384-487A-B1D1-3AB546A4CF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AA93C9-0384-487A-B1D1-3AB546A4CF65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
