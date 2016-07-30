@@ -1,6 +1,6 @@
 # Repository Pattern // UnitOfWork // Entity Framework
 
-[![NuGet](https://img.shields.io/nuget/0.9.1/Nuget.Core.svg?maxAge=2592000)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/)
+[![NuGet](https://img.shields.io/nuget/0.9.1/Nuget.Core.svg?maxAge=2)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/)
 
 Offering you a complete abstraction of the UnitOfWork-Pattern with the basic CRUD-Operations, the Repository Pattern and extended functions like CustomRepositores all in one small lib. Made for the Entity Framework.
 
