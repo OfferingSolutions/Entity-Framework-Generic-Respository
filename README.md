@@ -1,6 +1,6 @@
 # OfferingSolutions UnitOfWork with Entity Framework
 
-[![NuGet Downloads](https://img.shields.io/nuget/dt/OfferingSolutions.UnitOfWork.Structure .svg)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/) [![NuGet Version](https://img.shields.io/nuget/v/OfferingSolutions.UnitOfWork.Structure .svg)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/OfferingSolutions.UnitOfWork.Structure.svg)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/) [![NuGet Version](https://img.shields.io/nuget/v/OfferingSolutions.UnitOfWork.Structure .svg)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/)
 
 Offering you a complete abstraction of the UnitOfWork-Pattern with the basic CRUD-Operations, the Repository Pattern and extended functions like CustomRepositores all in one small lib. Made for the Entity Framework.
 
