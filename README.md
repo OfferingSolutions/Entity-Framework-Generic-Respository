@@ -1,4 +1,4 @@
-# Repository Pattern // UnitOfWork // Entity Framework Core
+# Repository Pattern // UnitOfWork // Entity Framework
 
 [![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg?maxAge=2592000)](https://www.nuget.org/packages/OfferingSolutions.UnitOfWork.Structure/)
 
