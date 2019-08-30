@@ -83,12 +83,12 @@ namespace OfferingSolutions.UoW.Sample
 
             personRepository.Save();
 
-            List<Person> persons = await personRepository.GetAllASync().Result.ToListAsync();
+            IQueryable<Person> persons = await personRepository.GetAllASync();
 
             Console.WriteLine(persons.Count);
             personRepository.MyNewFunction(6);
             await personRepository.SaveASync();
-            List<Person> allASync = await personRepository.GetAllASync().Result.ToListAsync();
+            IQueryable<Person> allASync = await personRepository.GetAllASync();
 
             thingRepository.Dispose();
             personRepository.Dispose();
